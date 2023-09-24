@@ -1,2 +1,2 @@
-# Hit-Box
-A game with made using the Event Bubbling in JavaScript.
+# Hit-Box Game
+A game made using the Event Bubbling in JavaScript.
